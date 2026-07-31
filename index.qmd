@@ -12,11 +12,12 @@ In this condition, you will complete weekly instructional videos, attend weekly 
 
 | Week | Required Activities |
 |---|---|
-| Week 1 | Complete the pretest, Week 1 video, coaching session, frequency-building practice, and Week 1 quiz |
-| Week 2 | Complete the Week 2 video, coaching session, frequency-building practice, and Week 2 quiz |
-| Week 3 | Complete the Week 3 video, coaching session, frequency-building practice, and Week 3 quiz |
-| Week 4 | Complete the Week 4 video, coaching session, frequency-building practice, and Week 4 quiz |
-| Week 5 | Complete the Week 5 video, coaching session, frequency-building practice, posttest, and Week 5 quiz |
+| Pre Study Activities | Complete the pretest,complete onboarding survey, confirm scheduled coaching dates |
+| Week 1 | Week 1 video, coaching session, graph case study data,  and Week 1 quiz |
+| Week 2 | Complete the Week 2 video, coaching session, graph case study data,  and Week 2 quiz |
+| Week 3 | Complete the Week 3 video, coaching session, graph case study data,  and Week 3 quiz |
+| Week 4 | Complete the Week 4 video, coaching session, graph case study data, and Week 4 quiz |
+| Week 5 | Complete the Week 5 video, coaching session, chart share, posttest, and Week 5 quiz |
 
 ## Weekly Materials
 
@@ -44,8 +45,9 @@ In this condition, you will complete weekly instructional videos, attend weekly 
 ### Week 5
 
 - [Week 5 Video](#)
-- [Posttest](#)
+- Posttest — A link will be emailed to you during Week 5.
 - [Complete the Week 5 Quiz](https://is-redcap.uoregon.edu/surveys/?s=PTXXYJAH7K9DCMHK){.btn .btn-primary target="_blank"}
+
 ## Coaching Sessions
 
 Please attend your weekly coaching session at your assigned time.
