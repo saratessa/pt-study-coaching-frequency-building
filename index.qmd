@@ -24,7 +24,7 @@ In this condition, you will complete weekly instructional videos, attend weekly 
 ### Week 1
 
 - Pretest *(completed with onboarding survey)*
-- [Week 1 Video](#)
+- [Week 1 Video](https://oregon.qualtrics.com/jfe/form/SV_9vQx7gfdSovnwRo)
 - [Complete the Week 1 Quiz](https://is-redcap.uoregon.edu/surveys/?s=8K3DM9YKYWY8F8CY){.btn .btn-primary target="_blank"}
 
 ### Week 2
